@@ -2,4 +2,4 @@
 
 Github Page del centro de cultura digital
 
-[Taller de atajos - Navega en tu PC](/atajos)
+[Taller de atajos de teclado - Navega en tu PC](/atajos)
